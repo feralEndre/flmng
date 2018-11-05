@@ -7,13 +7,13 @@ Integrated media player (Video/Image)
 
 ## Learn GIT, C++
 
-# Main feature
+## Main feature to develop
 Pass the "order by" to the integrated media player
 Next file always will be as the file manager order
 
-#### Need clarification
+##### Need clarification
 
-#### Need implementation
+##### Need implementation
 
 
 
